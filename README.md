@@ -1,7 +1,7 @@
 
 <img width="747" height="302" alt="msedge_5IcpLK1PEr" src="https://github.com/user-attachments/assets/565501c8-17a7-4cc7-a870-d40b959b1e5c" />
 
-Stream Games & Roms on Demand aka Donwload Games & Roms on Demand and Delete when done playing.
+Stream Games & Roms on Demand aka Donwload Games & Roms on Demand and Delete when done playing with Launchbox.
 
 Simialr Program that works with KODI (Internet Archive Game Launcher or IAGL):
 
@@ -50,4 +50,6 @@ https://forums.launchbox-app.com/files/file/4862-startup-screen-load-delay-great
 11. Play your game.
 
 12. Upon exit it will ask you if u want to keep the game to play it next time or remove it. Removing it removes the actual game and keeps the dummy file.
+
+This is for educational purposes and not responsible on how it is used.
 
