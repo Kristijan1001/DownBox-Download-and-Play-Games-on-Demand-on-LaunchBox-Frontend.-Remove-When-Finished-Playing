@@ -37,6 +37,8 @@ https://forums.launchbox-app.com/files/file/4375-bulk-addremove-additional-appli
 
 https://forums.launchbox-app.com/files/file/4862-startup-screen-load-delay-greater-than-30-seconds/
 
+<img width="500" height="335" alt="LaunchBox_YZH6SimBgK" src="https://github.com/user-attachments/assets/4ad61b86-c759-439f-ab9a-c88a01ef9a29" />
+
 8. We go to launchbox and we add the additional apps again use the Bulk Additional App to add it to tons of games:
 
 <img width="1100" height="700" alt="LaunchBox_GMlfaSMN8b" src="https://github.com/user-attachments/assets/74079fb5-3085-446d-9575-fd1a902af083" />
@@ -56,4 +58,8 @@ This is for educational purposes and not responsible on how it is used.
 
 Video in action. (You can disable the start up screen in Start Up Screen plguin, disabled here just so you can see the cmd)
 
-<img width="500" height="335" alt="LaunchBox_YZH6SimBgK" src="https://github.com/user-attachments/assets/4ad61b86-c759-439f-ab9a-c88a01ef9a29" />
+
+
+https://github.com/user-attachments/assets/8c9e3422-f7d1-46a3-853c-51fe4d0356f2
+
+
