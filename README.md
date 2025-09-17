@@ -20,6 +20,8 @@ This process can be really streamlined and made better, if someone had the time.
 
 The idea is the following. 
 
+Before starting i suggest you put all scripts in Launchbox/Scripts which hopefully should go smoothly otherwise you will have to edit the python file with your Paths etc. Make sure you also install python dependencies. 
+
 1. First you get and run
 
 (.Export) (A2600) Atari 2600 - (Export Titles & Links in CSV)
