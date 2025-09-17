@@ -1,4 +1,6 @@
-Out of space ? Want to have 50k Games setup on Launchbox but don't wanna download 1000s of games no need for 20TB HDD anymore. I made this for my self, basiclly how it works is, upon boot launchbox downloads the game, once downloaded, the game boots. Once you finish it asks you if you want to remove the game or keep it so you can play it again next time. 
+Out of space ? Want to have 50k Games setup on Launchbox but don't wanna download 1000s of games no need for 20TB HDD anymore. 
+
+I made this for my self long ago, basically how it works is, upon boot launchbox downloads the game, once downloaded, the game boots. Once you finish it asks you if you want to remove the game or keep it so you can play it again next time. 
 
 This process can be really streamlined and made better, if someone had the time. The idea is there, it is working for Archive.org and Myrient. I am sure it can be updated to work on other links. 
 
