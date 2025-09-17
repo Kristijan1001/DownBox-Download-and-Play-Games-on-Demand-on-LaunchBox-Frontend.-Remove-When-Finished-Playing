@@ -1,3 +1,12 @@
+
+<img width="747" height="302" alt="msedge_5IcpLK1PEr" src="https://github.com/user-attachments/assets/565501c8-17a7-4cc7-a870-d40b959b1e5c" />
+
+Stream Games & Roms on Demand aka Donwload Games & Roms on Demand and Delete when done playing.
+
+Simialr Program that works with KODI (Internet Archive Game Launcher or IAGL):
+
+https://github.com/zach-morris/plugin.program.iagl
+
 Out of space ? Want to have 50k Games setup on Launchbox but don't wanna download 1000s of games no need for 20TB HDD anymore. 
 
 I made this for my self long ago, basically how it works is, upon boot launchbox downloads the game, once downloaded, the game boots. Once you finish it asks you if you want to remove the game or keep it so you can play it again next time. 
