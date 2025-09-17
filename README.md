@@ -22,7 +22,7 @@ The idea is the following.
 
 https://forums.launchbox-app.com/files/file/4375-bulk-addremove-additional-applications/
 
-7. We also need to get start up screen delay, not sure if needed still since i made this script awhile ago.
+7. We also need to get start up screen delay, not sure if needed still since i made this script awhile ago set to 5 seconds, if i remember correctly it was so the game starts faster instead of waitng for those 30 Seconds after the game downloads/extracts.
 
 https://forums.launchbox-app.com/files/file/4862-startup-screen-load-delay-greater-than-30-seconds/
 
