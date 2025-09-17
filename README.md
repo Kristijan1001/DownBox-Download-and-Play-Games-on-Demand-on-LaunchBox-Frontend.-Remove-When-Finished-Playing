@@ -33,7 +33,7 @@ The idea is the following.
 
 https://forums.launchbox-app.com/files/file/4375-bulk-addremove-additional-applications/
 
-7. We also need to get start up screen delay, not sure if needed still since i made this script awhile ago set to 5 seconds, if i remember correctly it was so the game starts faster instead of waitng for those 30 Seconds after the game downloads/extracts.
+7. We also need to get start up screen delay, set to 5 seconds, if i remember correctly it was so the game starts faster instead of waitng for those 30 Seconds after the game downloads/extracts. You can also disable the startup screen with it, but i recommand it on. You can just Press Y and enter when the CMD pops up.
 
 https://forums.launchbox-app.com/files/file/4862-startup-screen-load-delay-greater-than-30-seconds/
 
@@ -53,3 +53,7 @@ https://forums.launchbox-app.com/files/file/4862-startup-screen-load-delay-great
 
 This is for educational purposes and not responsible on how it is used.
 
+
+Video in action. (You can disable the start up screen in Start Up Screen plguin, disabled here just so you can see the cmd)
+
+<img width="500" height="335" alt="LaunchBox_YZH6SimBgK" src="https://github.com/user-attachments/assets/4ad61b86-c759-439f-ab9a-c88a01ef9a29" />
