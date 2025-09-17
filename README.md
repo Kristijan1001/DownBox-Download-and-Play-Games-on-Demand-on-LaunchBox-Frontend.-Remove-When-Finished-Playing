@@ -32,7 +32,7 @@ Before starting i suggest you put all scripts in Launchbox/Scripts which hopeful
 
 (Dummy) (A2600) Atari 2600 - (Make Dummy Roms).py
 
-4. This makes it so it creates a Fake rom in the Launchbox Directory or wherever your games are stored.
+4. This makes it so it creates a fake roms in the Launchbox Directory or wherever your games are stored. This is a way to add the games to LaunchBox without actaully having them, taking up 0 bytes of space.
 
 5. You need to setup launchbox to launch the script before and after the game.
 
