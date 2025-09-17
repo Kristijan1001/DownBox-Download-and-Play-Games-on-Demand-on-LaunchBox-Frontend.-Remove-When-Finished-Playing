@@ -3,7 +3,7 @@
 
 Stream Games & Roms on Demand aka Donwload Games & Roms on Demand and Delete when done playing with Launchbox.
 
-Simialr Program that works with KODI (Internet Archive Game Launcher or IAGL):
+Similar Program that works with KODI (Internet Archive Game Launcher or IAGL):
 
 https://github.com/zach-morris/plugin.program.iagl
 
