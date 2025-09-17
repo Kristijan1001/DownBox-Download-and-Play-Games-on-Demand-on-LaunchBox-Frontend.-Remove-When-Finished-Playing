@@ -52,7 +52,7 @@ https://forums.launchbox-app.com/files/file/4862-startup-screen-load-delay-great
 
 <img width="640" height="475" alt="LaunchBox_KJ0gZYLsWp" src="https://github.com/user-attachments/assets/e4069515-eedd-439d-811f-af75376dcb9a" />
 
-9. Start a game, alt tab a CMD should be open asking if you are sure you want to download this game, this can be disabled by editing the script or maybe made better with better skill.
+9. Start a game, alt tab a CMD should be open asking if you are sure you want to download this game, this can be disabled by editing the script or maybe it could be improved upon.
 
 10. Do yes and the game will download then boot. Make sure your emulators are setup properly, as in some platforms you need extraction before running otherwise you will just get error.
 
