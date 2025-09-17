@@ -7,6 +7,11 @@ Similar Program that works with KODI (Internet Archive Game Launcher or IAGL):
 
 https://github.com/zach-morris/plugin.program.iagl
 
+Video in action. (You can disable the start up screen in Start Up Screen plguin, disabled here just so you can see the cmd)
+
+
+https://github.com/user-attachments/assets/8c9e3422-f7d1-46a3-853c-51fe4d0356f2
+
 Out of space ? Want to have 50k Games setup on Launchbox but don't wanna download 1000s of games no need for 20TB HDD anymore. 
 
 I made this for my self long ago, basically how it works is, upon boot launchbox downloads the game, once downloaded, the game boots. Once you finish it asks you if you want to remove the game or keep it so you can play it again next time. 
@@ -54,12 +59,5 @@ https://forums.launchbox-app.com/files/file/4862-startup-screen-load-delay-great
 12. Upon exit it will ask you if u want to keep the game to play it next time or remove it. Removing it removes the actual game and keeps the dummy file.
 
 This is for educational purposes and not responsible on how it is used.
-
-
-Video in action. (You can disable the start up screen in Start Up Screen plguin, disabled here just so you can see the cmd)
-
-
-
-https://github.com/user-attachments/assets/8c9e3422-f7d1-46a3-853c-51fe4d0356f2
 
 
