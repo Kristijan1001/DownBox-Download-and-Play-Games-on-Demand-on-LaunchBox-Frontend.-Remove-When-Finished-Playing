@@ -1,3 +1,5 @@
+<a href="https://buymeacoffee.com/kristijan1001" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me a Coffee"> </a>
+
 
 <img width="747" height="302" alt="msedge_5IcpLK1PEr" src="https://github.com/user-attachments/assets/565501c8-17a7-4cc7-a870-d40b959b1e5c" />
 
